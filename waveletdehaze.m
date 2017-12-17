@@ -17,8 +17,8 @@
 %
 %  Version 1.0 - December 2017.
 
-% For the noisy image, the noise removal part can be embeded into this
-% wavelet framework directly, and it is easy to design by the intertested designers themself.
+% For the noisy image, the noise removal part can be embedded into this
+% wavelet framework directly, and it is easy to code by the intertested designers themself.
 
 
 function d = waveletdehaze(f,level, wname)
